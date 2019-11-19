@@ -1,3 +1,3 @@
-![DevHelper Logo](https://github.com/savegdesigner/DevHelper/blob/master/DevHelper-Logo.svg)
+![DevHelper Logo](https://github.com/savegdesigner/DevHelper/blob/master/devhelper-logo.svg)
 ### Para alunos e professores
 
